@@ -60,6 +60,7 @@ console.log(
 
 // }
  
-
-
+// const { getEmployees, setEmployee, getEmpSync }  = require("./lib/Employees");
+// const list = getEmpSync();
+// console.log(list);
 menuStart();
